@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Rajesh</h1>
+<h2 align="center" color="pink">📚Currently Studying....</h2>
 <p align="left">
 </p>
 
