@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2 align="center" color="pink">📚Currently Studying....</h2>
+<h2 align="center" color="pink">📚</h2>
 <p align="left">
 </p>
 
