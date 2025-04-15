@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 ---
 
 ### 🌌 About Me
-
+<!--
 - 🎓 Self-driven, dedicated, and innovative university student pursuing a **Bachelor of Engineering in Computer Science** from **Chitkara University**, Chandigarh.
 - 🤝 A forward-thinking individual who thrives in environments emphasizing teamwork and learning by doing.
 - 💻 Skilled in **C/C++**, **MERN stack**, **UI Design**, and **Data Structures and Algorithms**.
@@ -115,7 +115,7 @@ Here are some ideas to get you started:
 </p>
 -->
 ---
-
+<!--
 ### 📊 Problem Solving Stats
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Gagan_Bansal?theme=dark)](https://leetcode.com/u/hyperboy107/)
@@ -145,7 +145,7 @@ Here are some ideas to get you started:
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=GaganBansal8&label=Profile%20views&color=0e75b6&style=flat" alt="GaganBansal8" /> 
 </p>
-
+-->
 <p align="center">
   🖤 Dark theme lover | 💻 Always coding | ☕ Fueled by coffee
 </p>
