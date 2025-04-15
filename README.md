@@ -108,19 +108,19 @@ Here are some ideas to get you started:
 ---
 
 ### 📈 GitHub Stats
-
+<!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Gagan2004Bansal&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gagan2004Bansal&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
-
+-->
 ---
 
 ### 📊 Problem Solving Stats
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Gagan_Bansal?theme=dark)](https://leetcode.com/u/Gagan_Bansal/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Gagan_Bansal?theme=dark)](https://leetcode.com/u/hyperboy107/)
 
-[![GFG Profile](https://img.shields.io/badge/GeeksforGeeks-Profile-green?logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/bansalgan80r/)
+[![GFG Profile](https://img.shields.io/badge/GeeksforGeeks-Profile-green?logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/hyperboy107/)
 
 [![Code360 Profile](https://img.shields.io/badge/Code360-Profile-blue?logo=code360&logoColor=white)](https://www.code360.com/profile/Gaganbansal04)
 
