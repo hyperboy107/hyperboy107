@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 - 💭 Trying Thoughtful New Ideas
 - 🔍 Problem Solving
-- 💡 Passionate About New Technologies.
+- 💡 Passionate About New Technologies
 - 🚀 Always Learning
 
 ---
