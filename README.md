@@ -43,15 +43,14 @@ Here are some ideas to get you started:
 ---
 
 ### 🌌 About Me
-<!--
-- 🎓 Self-driven, dedicated, and innovative university student pursuing a **Bachelor of Engineering in Computer Science** from **Chitkara University**, Chandigarh.
-- 🤝 A forward-thinking individual who thrives in environments emphasizing teamwork and learning by doing.
-- 💻 Skilled in **C/C++**, **MERN stack**, **UI Design**, and **Data Structures and Algorithms**.
-- 🌐 Keen interest in **web development** and solving complex problems.
-- 🎯 With strong solution-seeking and communication skills, I actively contribute to **event management**, **marketing**, and **content creation** with enthusiasm and a solid work ethic.
+
+- 💭 Trying Thoughtful New Ideas
+- 🔍 Problem Solving
+- 💡 Passionate About New Technologies.
+- 🚀 Always Learning
 
 ---
--->
+
 ### 🛠️ Languages and Tools
 
 <p align="left">
@@ -97,7 +96,7 @@ Here are some ideas to get you started:
 ---
 <!--
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=GaganBansal8&label=Profile%20views&color=0e75b6&style=flat" alt="GaganBansal8" /> 
+  <img src="https://komarev.com/ghpvc/?username=hyperboy107&label=Profile%20views&color=0e75b6&style=flat" alt="GaganBansal8" /> 
 </p>
 -->
 <p align="center">
