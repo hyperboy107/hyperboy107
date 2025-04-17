@@ -94,11 +94,11 @@ Here are some ideas to get you started:
 </p>
 
 ---
-<!--
+
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=hyperboy107&label=Profile%20views&color=0e75b6&style=flat" alt="GaganBansal8" /> 
 </p>
--->
+
 <p align="center">
-  🖤 Dark theme lover | 💻 Always coding | ☕ Fueled by coffee
+  🖤 Dark theme lover | 💻 Love coding | ☕ Fueled by coffee
 </p>
