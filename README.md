@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 - 🎯 With strong solution-seeking and communication skills, I actively contribute to **event management**, **marketing**, and **content creation** with enthusiasm and a solid work ethic.
 
 ---
-
+-->
 ### 🛠️ Languages and Tools
 
 <p align="left">
@@ -108,40 +108,40 @@ Here are some ideas to get you started:
 ---
 
 ### 📈 GitHub Stats
-<!--
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gagan2004Bansal&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gagan2004Bansal&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hyperboy107&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyperboy107&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
--->
+
 ---
-<!--
+
 ### 📊 Problem Solving Stats
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Gagan_Bansal?theme=dark)](https://leetcode.com/u/hyperboy107/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/hyperboy107?theme=dark)](https://leetcode.com/u/hyperboy107/)
 
 [![GFG Profile](https://img.shields.io/badge/GeeksforGeeks-Profile-green?logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/hyperboy107/)
 
-[![Code360 Profile](https://img.shields.io/badge/Code360-Profile-blue?logo=code360&logoColor=white)](https://www.code360.com/profile/Gaganbansal04)
+[![Code360 Profile](https://img.shields.io/badge/Code360-Profile-blue?logo=code360&logoColor=white)](https://www.naukri.com/code360/profile/hyperboy)
 
 ---
 
 ### 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/bansalgagan2004/">
+  <a href="https://www.linkedin.com/in/rajesh-kumar-pati-029711269/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:bansalgagan2004@gmail.com">
+  <a href="mailto:rajeshpati550@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="https://leetcode.com/u/Gagan_Bansal/">
+  <a href="https://leetcode.com/u/hyperboy107/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Badge"/>
   </a>
 </p>
 
 ---
-
+<!--
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=GaganBansal8&label=Profile%20views&color=0e75b6&style=flat" alt="GaganBansal8" /> 
 </p>
