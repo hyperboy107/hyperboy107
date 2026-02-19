@@ -123,14 +123,14 @@ Here are some ideas to get you started:
 
 ---
 
-### 📈 GitHub Stats
+<!-- ### 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hyperboy107&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyperboy107&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
 
----
+--- -->
 
 ### 📊 Problem Solving Stats
 
