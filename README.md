@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <!-- Dark-themed GitHub Profile README -->
 
-<h1 align="center">Hi 👋, I'm <span style="color: violet;">Rajesh Pati</span> </h1>
+<h1 align="center">Hi there! I'm <span style="color: violet;">Rajesh Pati 👋</span> </h1>
 <h3 align="center">A passionate Software Engineer enthusiast</h3>
 
 <p align="center">
