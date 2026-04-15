@@ -58,6 +58,7 @@ Here are some ideas to get you started:
 </p> -->
 
 <!-->So This is the start <-->
+<!--
 <p align="left">
   <p align="left">
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -122,36 +123,37 @@ Here are some ideas to get you started:
     </a>
   </p>
 </p>
-
+ -->
 ---
-<table style="border: 2px solid violet; border-collapse: collapse; width: 100%;">
+<table>
   <tr>
-    <th style="border: 2px solid violet; color: indigo; padding: 8px;">Category</th>
-    <th style="border: 2px solid violet; color: indigo; padding: 8px;">Technologies</th>
+    <th><span style="color: indigo;">Category</span></th>
+    <th><span style="color: indigo;">Technologies</span></th>
   </tr>
+
   <tr>
-    <td style="border: 2px solid violet; color: indigo; padding: 8px;">Languages</td>
-    <td style="border: 2px solid violet; padding: 8px;">Java, Kotlin, Python, JavaScript, C++, C, Motoko, Solidity</td>
+    <td><span style="color: indigo;">Languages</span></td>
+    <td>Java, JavaScript, Python</td>
   </tr>
+
   <tr>
-    <td style="border: 2px solid violet; color: indigo; padding: 8px;">Cloud/DevOps</td>
-    <td style="border: 2px solid violet; padding: 8px;">OCI Platform, AWS, Docker, Kubernetes, GCP, Jenkins</td>
+    <td><span style="color: indigo;">Frontend</span></td>
+    <td>React.js, Next.js</td>
   </tr>
+
   <tr>
-    <td style="border: 2px solid violet; color: indigo; padding: 8px;">Frameworks</td>
-    <td style="border: 2px solid violet; padding: 8px;">ReactJs, Svelte, NodeJs, JQuery, Apex, Numpy, TensorFlow, Hardhat, Ethers.js, Web3.js</td>
+    <td><span style="color: indigo;">Backend</span></td>
+    <td>Node.js</td>
   </tr>
+
   <tr>
-    <td style="border: 2px solid violet; color: indigo; padding: 8px;">Databases</td>
-    <td style="border: 2px solid violet; padding: 8px;">MongoDB, SQL</td>
+    <td><span style="color: indigo;">Databases</span></td>
+    <td>MongoDB, MySQL</td>
   </tr>
+
   <tr>
-    <td style="border: 2px solid violet; color: indigo; padding: 8px;">SDKs</td>
-    <td style="border: 2px solid violet; padding: 8px;">Flutter, Firebase</td>
-  </tr>
-  <tr>
-    <td style="border: 2px solid violet; color: indigo; padding: 8px;">Tools</td>
-    <td style="border: 2px solid violet; padding: 8px;">Git, Truffle, Ganache, Remix IDE</td>
+    <td><span style="color: indigo;">Tools</span></td>
+    <td>Git, Postman, Docker</td>
   </tr>
 </table>
 
